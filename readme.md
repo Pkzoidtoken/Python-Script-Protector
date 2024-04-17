@@ -1,10 +1,10 @@
 # 😎 Here's a guide on how to use this tool:
 
-Download the Tool: First, download the tool from the provided source.
+## Download the Tool: First, download the tool from the provided source.
 
 Open the Tool: Once downloaded, open the tool.
 
-Use Args Command: Use the args command to specify various parameters:
+## Use Args Command: Use the args command to specify various parameters:
 
 * -mod: Provide a number (0 for encryption).
 *  -file: Specify the name of your Python script (e.g., app.py).
@@ -12,10 +12,12 @@ Use Args Command: Use the args command to specify various parameters:
 *   -d: Decide whether to delete the original script after encryption (True or False).
 *   -open: Provide the output name for your script..
 
+## After encrypting your script, the compiler.exe is no longer needed.
+
 Example:
 ```ruby
 python encrypt_tool.py -mod 0 -file app.py -output call -d True -open call
 ```
-Additional Note: Ensure that all required packages are installed on the user's system. For example, if your script requires additional packages, mention them explicitly.
+## Additional Note: Ensure that all required packages are installed on the user's system. For example, if your script requires additional packages, mention them explicitly.
 
 
