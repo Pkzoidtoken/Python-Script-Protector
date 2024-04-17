@@ -1,4 +1,4 @@
-😎 Here's a guide on how to use this tool:
+# 😎 Here's a guide on how to use this tool:
 
 Download the Tool: First, download the tool from the provided source.
 
