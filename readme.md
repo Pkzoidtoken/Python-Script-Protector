@@ -13,9 +13,9 @@ Use Args Command: Use the args command to specify various parameters:
 *   -open: Provide the output name for your script..
 
 Example:
-
+...
 python encrypt_tool.py -mod 0 -file app.py -output call -d True -open call
-
+...
 Additional Note: Ensure that all required packages are installed on the user's system. For example, if your script requires additional packages, mention them explicitly.
 
 
